@@ -1,0 +1,2 @@
+// add
+#define ENABLE_MONSTER_SPECULAR
